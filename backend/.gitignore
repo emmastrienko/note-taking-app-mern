@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Configuration file
+config.json
+
+# Build output
+dist
+build
+public
+
+# Optional: IDE and editor folders
+.idea/
+.vscode/
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Yarn integrity file
+.yarn-integrity
+
+# Package lock file
+package-lock.json
